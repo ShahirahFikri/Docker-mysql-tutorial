@@ -23,4 +23,5 @@ For example, a website, API, and database must all be linked together. Docker Co
 
 *Run the docker-compose up command in the same directory as the docker-compose.yaml file to start running all of the specified services as Docker containers.*
 
-![Alt Text](http://url/to/How to use docker-compose with Apache httpd example.png)
+![Screenshot (1867)](https://user-images.githubusercontent.com/104122185/173180088-f81a00ec-2e68-4370-8d3d-b91c25174fd4.png)
+
