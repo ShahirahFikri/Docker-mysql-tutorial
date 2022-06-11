@@ -39,4 +39,4 @@ For example, a website, API, and database must all be linked together. Docker Co
 
 *The docker-compose command accepts several options, followed by a command. In this case, you are using -p tests to run the services under the tests project name. The command being used is run, which will execute a one-time command against a service. The --rm option will remove the containers after the command runs. Finally, we are running in the web service phpunit.*
 
-
+![Screenshot (1872)](https://user-images.githubusercontent.com/104122185/173181581-0d79fbe7-c089-4a35-b575-5f0d8a5288c0.png)
