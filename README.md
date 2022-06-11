@@ -32,3 +32,11 @@ For example, a website, API, and database must all be linked together. Docker Co
 *Docker Compose lets us provide properties for a service (in this case, MySQL) such as the image to use, ports to expose, volumes to deploy, and environment variables.*
 
 *Here's how we'd utilise docker-compose to achieve the aforementioned capabilities. This should be saved as docker-compose.yaml:*
+
+![Screenshot (1871)](https://user-images.githubusercontent.com/104122185/173181154-8e2e606d-a786-4766-9117-3ff9b66f5548.png)
+
+* **PHP**
+
+*The docker-compose command accepts several options, followed by a command. In this case, you are using -p tests to run the services under the tests project name. The command being used is run, which will execute a one-time command against a service. The --rm option will remove the containers after the command runs. Finally, we are running in the web service phpunit.*
+
+
