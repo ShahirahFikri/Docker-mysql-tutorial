@@ -27,5 +27,7 @@ For example, a website, API, and database must all be linked together. Docker Co
 
 *The Apache httpd Docker image becomes available on port 8080 once this docker-compose up command accomplishes, with the web server hosting files from the folder supplied in the configuration file's volumes section.*
 
-![Screenshot (1869)](https://user-images.githubusercontent.com/104122185/173180310-8f49b4bf-9410-4328-b17d-387216b37d9e.png)
+* **SQL**
+
+*Docker Compose lets us provide properties for a service (in this case, MySQL) such as the image to use, ports to expose, volumes to deploy, and environment variables.*
 
