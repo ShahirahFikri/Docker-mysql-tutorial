@@ -25,3 +25,4 @@ For example, a website, API, and database must all be linked together. Docker Co
 
 ![Screenshot (1867)](https://user-images.githubusercontent.com/104122185/173180088-f81a00ec-2e68-4370-8d3d-b91c25174fd4.png)
 
+*The Apache httpd Docker image becomes available on port 8080 once this docker-compose up command accomplishes, with the web server hosting files from the folder supplied in the configuration file's volumes section.*
