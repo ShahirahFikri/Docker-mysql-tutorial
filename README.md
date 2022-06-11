@@ -31,3 +31,4 @@ For example, a website, API, and database must all be linked together. Docker Co
 
 *Docker Compose lets us provide properties for a service (in this case, MySQL) such as the image to use, ports to expose, volumes to deploy, and environment variables.*
 
+*Here's how we'd utilise docker-compose to achieve the aforementioned capabilities. This should be saved as docker-compose.yaml:*
