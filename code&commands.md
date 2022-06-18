@@ -70,10 +70,6 @@ DROP TABLE New_Application cascade constraints;
 DROP TABLE Program cascade constraints;
 
 
-# SAMPLE RUN
-
-
-
 # COMMANDS:
 
 **1) List all of the ICTSS Members.**
