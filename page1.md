@@ -56,7 +56,7 @@
 
 ![Screenshot (1965)](https://user-images.githubusercontent.com/104122185/174432416-087a519e-e8ba-4ee1-967e-4a577dde454d.png)
 
-## CONNECY MYSQL TO DOCKER
+## CONNECT MYSQL TO DOCKER
 
 1) Go to Command Prompt to download MYSQL image into Docker
 
