@@ -8,7 +8,7 @@
 
 ![photo_2022-06-18_15-47-05](https://user-images.githubusercontent.com/104122185/174428353-d080fdd2-ff6a-4b8b-b4a0-f815d2e9a2a9.jpg)
 
-3) Once downloaded, open the Docker installer.
+3) Once downloaded, open the Docker Desktop Installer.exe.
 
 ![photo_2022-06-18_16-04-49](https://user-images.githubusercontent.com/104122185/174428848-707420de-885d-40c5-9380-a14321aec58c.jpg)
 
