@@ -109,3 +109,9 @@ _UPDATE ICTSS_Member SET ProgId = '45' WHERE StudentId = 1944_
 # SAMPLE RUN
 
 ![Screenshot (1970)](https://user-images.githubusercontent.com/104122185/174443619-ee101da6-f2e7-4485-a364-bf98369dffc3.png)
+
+![Screenshot (1971)](https://user-images.githubusercontent.com/104122185/174443724-dbc5804d-0f95-47c8-b31f-0d5eb28dff31.png)
+
+![Screenshot (1972)](https://user-images.githubusercontent.com/104122185/174443742-564d899e-0c4e-4601-ad03-f9e18f38d428.png)
+
+![Screenshot (1974)](https://user-images.githubusercontent.com/104122185/174443754-02e64e65-beeb-4826-a5e6-d2dc9d4cfe44.png)
