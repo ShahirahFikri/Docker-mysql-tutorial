@@ -37,6 +37,23 @@
 
 ## WSL2 INSTALLATION
 
+1) For installing WSL 2, Docker will display a URL of https://aka.ms/wsl2kernel to be clicked on.
 
+![fi6](https://user-images.githubusercontent.com/104122185/174431467-6b6529ed-c0fa-4d75-beba-30e1cf3c7ad1.jpg)
+
+
+2) After clicking the link above, select the link that says "Download the latest package."
+
+![photo_2022-06-18_17-35-31](https://user-images.githubusercontent.com/104122185/174431903-50a10557-a999-441c-bc63-c7e5baa54344.jpg)
+
+
+3) Click on the wsl_update_x64 and wait until the installation finished.
+
+![photo_2022-06-18_17-40-55](https://user-images.githubusercontent.com/104122185/174432134-9ef4a345-bc71-46fc-862e-b9e98d35d9a8.jpg)
+
+
+4) Click "Finish" when the installation is completed.
+
+![Screenshot (1965)](https://user-images.githubusercontent.com/104122185/174432416-087a519e-e8ba-4ee1-967e-4a577dde454d.png)
 
 
