@@ -7,6 +7,9 @@
 * **AFIEFAH BINTI JAMALULLAIN** Matric ID *2011666*
 * **TAMANNI HAYYAN HANI** Matric ID *2020833*
 
+## LECTURER:
+*DR. RIZAL BIN MOHD. NOR*
+
 ## WHAT DOCKER IS?
 
 Docker is a free and open set of software, delivering, and operating apps. Docker allows to decouple the apps from infrastructure to swiftly release software. We can organise our hardware the same approach we control our programs with Docker. We may drastically minimise the time between writing code and executing it in operation by leveraging Docker's approaches for shipping, testing, and deploying code quickly. 
