@@ -1,4 +1,4 @@
-# Docker-php-mysql-apache-tutorial
+# Docker-mysql-tutorial
 
 ## TEAM MEMBERS:
 
