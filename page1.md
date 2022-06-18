@@ -64,7 +64,7 @@
 
 2) Login to Docker account and run MYSQL image script 
 
-![Screenshot (1923)](https://user-images.githubusercontent.com/107701670/174435866-18526eda-933b-4b14-b8dc-ed01fb86912f.png
+![Screenshot (1923)](https://user-images.githubusercontent.com/107701670/174435866-18526eda-933b-4b14-b8dc-ed01fb86912f.png)
 
 3) MYSQL is now pulling into Docker
 
