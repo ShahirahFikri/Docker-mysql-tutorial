@@ -56,4 +56,45 @@
 
 ![Screenshot (1965)](https://user-images.githubusercontent.com/104122185/174432416-087a519e-e8ba-4ee1-967e-4a577dde454d.png)
 
+## CONNECY MYSQL TO DOCKER
+
+1) Go to Command Prompt to download MYSQL image into Docker
+
+![Screenshot (3)](https://user-images.githubusercontent.com/107701670/174435837-4db905c7-ed2b-4dae-bb3b-42ea2837cb97.png)
+
+2) Login to Docker account and run MYSQL image script 
+
+![Screenshot (1923)](https://user-images.githubusercontent.com/107701670/174435866-18526eda-933b-4b14-b8dc-ed01fb86912f.png
+
+3) MYSQL is now pulling into Docker
+
+![Screenshot (1924)](https://user-images.githubusercontent.com/107701670/174435817-f0f05dcd-8241-4de8-9126-a8c1e22fa495.png)
+
+4) Pull has completed and MYSQL has uploaded
+
+![Screenshot (1925)](https://user-images.githubusercontent.com/107701670/174435894-5cb753ec-0e78-4c30-966e-d91012ee1fe3.png)
+
+5) Open SQL WorkBench to connect your MYSQL account to Docker account
+
+6) Put Username as Local Host and password you put before in your Command Prompt and you successfuly made the MYSQL connection
+
+![Screenshot (1926)](https://user-images.githubusercontent.com/107701670/174435921-c663792f-6d13-4bd9-a8f7-4b9abc24fd9c.png)
+
+7) MYSQL will be opened and ready to use
+
+![Screenshot (1927)](https://user-images.githubusercontent.com/107701670/174435967-81a9b26b-48c1-412b-9e7c-a31eeb27917b.png)
+
+8) MYSQL image is already in your Docker account
+
+![Screenshot (1939)](https://user-images.githubusercontent.com/107701670/174435941-3cced452-a535-41c2-a987-bfcd5ae9fb0f.png)
+
+9) Your container will show your MYSQL is running
+
+![Screenshot (1941)](https://user-images.githubusercontent.com/107701670/174435949-69428f5c-a116-492b-9e43-c205e7e9a0cd.png)
+
+
+
+
+
+
 
