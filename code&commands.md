@@ -26,6 +26,9 @@ CONSTRAINT Program_ProgId_PK PRIMARY KEY (ProgId),
 CONSTRAINT Program_StudentId_FK FOREIGN KEY(StudentId)
 REFERENCES ICTSS_Member);
 
+
+
+
 INSERT INTO ICTSS_Member VALUES('1944','Aina Leya', 'President', 'aina@gmail.com', '0139944331', '45');
 INSERT INTO ICTSS_Member VALUES('1966','Putra Jen', 'Vice President','putra@gmail.com',  '0133388717', '44');
 INSERT INTO ICTSS_Member VALUES('1977','Mohd Dani', 'Secretary 1', 'dani@gmail.com', '0138844331', '43');
@@ -59,6 +62,9 @@ INSERT INTO PROGRAM VALUES('38', 'Ramadan night talk part 2', '2267');
 INSERT INTO PROGRAM VALUES('37', 'Ramadan night talk part 1', '2201');
 INSERT INTO PROGRAM VALUES('36', 'Ict AI Quiz contest 202', '2217');
 
+
+
+
 DROP TABLE ICTSS_Member cascade constraints;
 DROP TABLE New_Application cascade constraints;
 DROP TABLE Program cascade constraints;
@@ -66,33 +72,33 @@ DROP TABLE Program cascade constraints;
 
 # COMMANDS:
 
-1) List all of the ICTSS Members
+**1) List all of the ICTSS Members.**
 
-SELECT * FROM ICTSS_Member;
+_SELECT * FROM ICTSS_Member;_
 
-2) List the studentId and studentName for the President position.
+**2) List the studentId and studentName for the President position.**
 
-SELECT studentId, studentName
-from ICTSS_Member
-where position_ICTSS = 'President';
+_SELECT studentId, studentName_
+_from ICTSS_Member_
+_where position_ICTSS = 'President';_
 
-3) Remove the programId column from ICTSS Member.
+**3) Remove the programId column from ICTSS Member.**
 
-ALTER TABLE ICTSS_Member
-DROP COLUMN progId;
+_ALTER TABLE ICTSS_Member_
+_DROP COLUMN progId;_
 
-4) List the programId and programName for student with studentId ='1944'
+**4) List the programId and programName for student with studentId ='1944'.**
 
-select ProgId, ProgName
-from Program NATURAL JOIN ICTSS_Member
-where ProgId = (select ProgId from ICTSS_Member where StudentId = '1944');
+_select ProgId, ProgName_
+_from Program NATURAL JOIN ICTSS_Member_
+_where ProgId = (select ProgId from ICTSS_Member where StudentId = '1944');_
 
-5) Insert the programId column into the ICTSS Member table.
+**5) Insert the programId column into the ICTSS Member table.**
 
-ALTER TABLE ICTSS_Member ADD COLUMN ProgId int AFTER PhoneNo
+_ALTER TABLE ICTSS_Member ADD COLUMN ProgId int AFTER PhoneNo_
 
-6) Modify the program id of a student.
+**6) Modify the program id of a student.**
 
-UPDATE ICTSS_Member SET ProgId = '45' WHERE StudentId = 1944
+_UPDATE ICTSS_Member SET ProgId = '45' WHERE StudentId = 1944_
 
 
