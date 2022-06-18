@@ -76,6 +76,8 @@
 
 5) Open SQL WorkBench to connect your MYSQL account to Docker account
 
+![WhatsApp Image 2022-06-18 at 7 52 59 PM](https://user-images.githubusercontent.com/107701670/174436603-78719f22-7bfb-44c1-8f5c-19289040306c.jpeg)
+
 6) Put Username as Local Host and password you put before in your Command Prompt and you successfuly made the MYSQL connection
 
 ![Screenshot (1926)](https://user-images.githubusercontent.com/107701670/174435921-c663792f-6d13-4bd9-a8f7-4b9abc24fd9c.png)
