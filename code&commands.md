@@ -106,3 +106,6 @@ _ALTER TABLE ICTSS_Member ADD COLUMN ProgId int AFTER PhoneNo_
 _UPDATE ICTSS_Member SET ProgId = '45' WHERE StudentId = 1944_
 
 
+# SAMPLE RUN
+
+![Screenshot (1970)](https://user-images.githubusercontent.com/104122185/174443619-ee101da6-f2e7-4485-a364-bf98369dffc3.png)
